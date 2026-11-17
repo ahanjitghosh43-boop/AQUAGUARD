@@ -1,0 +1,21 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual Environment
+venv/
+.venv/
+env/
+
+# IDE
+.vscode/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Temporary files
+*.log
+.DS_Store
+
+# Prediction History
+results/prediction_history.csv
