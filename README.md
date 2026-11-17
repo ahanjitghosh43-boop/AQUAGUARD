@@ -82,7 +82,7 @@ AQUAGUARD/
 ### 1. Clone the Repository
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_LINK
+git clone https://github.com/ahanjitghosh43-boop/AQUAGUARD.git
 ```
 
 ### 2. Open the Project Folder
